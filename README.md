@@ -13,6 +13,7 @@
 | 项目 | 说明 |
 | --- | --- |
 | [cn-legal-citation](https://github.com/liujunchao-nju/cn-legal-citation) | 按《法学引注手册》（第二版）生成中文法学脚注。覆盖 11 类文献，规则与代码分离，31 项单元测试 |
+| [gutachten-cn](https://github.com/liujunchao-nju/gutachten-cn) | 鉴定式案例分析：刑法阶层检验与民法请求权基础。四套检视程式可配置（三阶层／二阶层／四要件校验／请求权基础七步），附公开案例范文，24 项单元测试 |
 
 ## 关注方向
 
